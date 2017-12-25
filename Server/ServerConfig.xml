@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<serverConfig>
+  <!--数据库连接-->
+  <connectionStrings>server=BANANA\MSSQLSERVER2014;uid=sa;pwd=Sa123456;database=wzjy</connectionStrings>
+</serverConfig>
